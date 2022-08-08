@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  margin: auto;
+}
+
+
+ h1 {
+    text-transform: uppercase;
+ }
+ 
+h2 {
+    text-transform: uppercase;
+    width: 28%;
+    height: 3vh;
+    margin: auto;
+    padding: 15px;
+    background-color: #FED7AA;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+li {
+    list-style-type: none;
+   
+}
+
+.price {
+ font-size: 16px;
+ 
+
+}
+
+.details {
+   display: inline-block;
+    
+}
